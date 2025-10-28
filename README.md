@@ -96,3 +96,10 @@ Usa JWT_SECRET robusto y rota claves en producción.
 Habilita CORS solo para orígenes permitidos.
 
 Añade logs estructurados y manejo centralizado de errores.
+
+
+<img width="2438" height="5275" alt="LTM_Mesa de trabajo 1 copia" src="https://github.com/user-attachments/assets/3c968a4a-f81f-4c1e-9e56-182707680556" />
+
+<img width="2438" height="5275" alt="LTM_Mesa de trabajo 1 copia 6" src="https://github.com/user-attachments/assets/46e12549-4255-4ce8-8489-f86c1f01fe28" />
+
+
